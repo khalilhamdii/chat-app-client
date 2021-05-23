@@ -3,7 +3,6 @@
   flex-direction: column;
   margin-left: 100px;
   color: white;
-  height: 60%;
   justify-content: space-between;
 }
 
@@ -26,7 +25,7 @@
   margin-bottom: 0px;
 }
 
-@media (min-width: 320px) and (max-width: 1200px) {
+@media (max-width: 1200px) {
   .textContainer {
     display: none;
   }
